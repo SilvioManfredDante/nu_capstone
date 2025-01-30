@@ -1,0 +1,6 @@
+yfinance==0.2.18
+pandas==1.5.3
+numpy==1.23.4
+scikit-learn==1.0.2
+tenacity
+requests
